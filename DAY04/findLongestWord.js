@@ -1,3 +1,12 @@
+// =============================
+//     Task Requirements
+// =============================
+
+// Requirements: Don't use sorting. Handle multiple words having the same maximum 
+//     length by returning the first one.
+
+//     expected Output : programming
+
 const sentence = "I am learning JavaScript programming";
 const words=sentence.split(" ")
 function findLongestWord(){

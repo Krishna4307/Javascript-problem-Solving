@@ -1,3 +1,14 @@
+// =============================
+//     Task Requirements
+// =============================
+
+// Requirements: Use an object to group the data. Don't modify the original array.
+// Expected Output :{
+//   IT: ["Rahul", "Arjun"],
+//   HR: ["Priya", "Kiran"],
+//   Finance: ["Sneha"]
+// }
+
 const employees = [
     { name: "Rahul", department: "IT" },
     { name: "Priya", department: "HR" },

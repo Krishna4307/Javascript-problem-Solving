@@ -1,3 +1,10 @@
+// =============================
+//     Task Requirements
+// =============================
+
+// Requirements: Multiply price by quantity for each product 
+//     and calculate the grand total. Use a function.
+// Expected Output : 72000
 const cart = [
   { name: "Laptop", price: 50000, quantity: 1 },
   { name: "Mouse", price: 500, quantity: 2 },

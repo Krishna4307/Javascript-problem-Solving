@@ -1,3 +1,11 @@
+// =============================
+//     Task Requirements
+// =============================
+
+// JS Task 3: Move All Zeros to the End
+// Requirements: Don't use sorting. Don't modify the original array.
+// expected Output : [5, 3, 8, 2, 0, 0, 0]
+
 const numbers = [0, 5, 0, 3, 8, 0, 2];
 function allZerosToEnd(){
     const newArr=[];
